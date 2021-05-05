@@ -8,9 +8,9 @@ OWASPプロジェクトやチャプターのスワッグ（ステッカーなど
   * `germany`
   * `uk`
     * `london`
-  * `usa`
+  * `usaaaaaaaaaaaaaaaaaaaaa`
     * `new-york`
-  * etc.
+  * etcaaaaaaaaaaaaaa.
 * `owasp`
 * `projects`
   * `juice-shop`
